@@ -1,0 +1,33 @@
+1.Question 1
+The Markets and Markets report showed a figure listing the top 8 application areas. In this course I chose 5 of those areas as “Industrial”. Select the 5 industrial application areas from the following list. (this is a repeat question from a previous quiz because I really want you to learn this)
+Ans:Agriculture
+    Building Automation
+    Oil & Gas
+    Automotive and Transportation
+    Industrial(Manufacturing)
+2.Question 2
+Of the 5 you selected above, 3 are poised to grow at exponential rates according to Markets and Markets. Select the 3 application areas predicted to grow at exponential rates.
+Ans:Automotive and Transportation
+    Industrial (manufacturing)
+    Agriculture
+3.Question 3
+We looked at a 2016 Arrow Electronics survey of operating systems used in IoT deployments. Select the top 3 operating systems from that survey from the following list.
+Ans:NO Os (Bare Metal)
+    Linux
+    FreeRTOS
+4.Question 4
+What criterion (metrics) do engineers typically look at when deciding on whether to deploy an RTOS? Select all that apply.
+Ans:What are the communication requirements, including the need to communicate with corporate database systems?
+    Is deterministic latency required?
+    Is real-time performance required?
+    What hardware resources are available in my system? Examples include: How much memory is there, caches, memory management units, and memory protection units.
+    What are the security requirements?
+    How will the device be powered?Battery or plugged in?
+5.Question 5
+What is the single most important criterion (metric) to consider when thinking about deploying an RTOS?
+Ans:
+
+
+
+
+
