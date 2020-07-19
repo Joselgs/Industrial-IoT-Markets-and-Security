@@ -1,1 +1,53 @@
+1.Question 1
+Select which of the following correctly describes what store-and-forward packet routing is:
+Ans:An entire packet is received and checked for data integrity before being sent on to a destination. Used in delay-tolerant applications. Its origin predates computers.
+2.Question 2
+Select which of the following describes what cut-through packet routing is
+Ans:A packet is sent on towards its destination prior to the end of the packet being received and checked for data integrity. Used in latency sensitive applications.
+3.Question 3
+In the context of this course, select the best answer that describes what M2M communication is
+Ans:
+4.Question 4
+TCP/IP communication consists of 4 layers from the OSI model consisting of:
+Application layer
+Transport layer
+Internet layer
+Network access layer
+True or false?
+Ans:True
+5.Question 5
+Which of the following drawings accurately represents a full IIoT system? Select the best answer.
+Ans:<==========Refer Week4_graded_quiz_images for answer==============>
+6.Question 6
+Network Functions Virtualization (NFV) seeks to be able to dynamically place (or move) networking capability as usage demands change. True or false?
+Ans:True
+7.Question 7
+Software Defined Networks (SDN) divides network functionality into a data plane and a control plane, and provides mechanisms to dynamically determine how network traffic flows through a network. True or false?
+Ans:True
+8.Question 8
+We saw 4 types of messaging schemes that could be used in an IIoT system. 3 of these were: polling, interrupts and push status. A 4th scheme exists, with the MQTT protocol (and related to push status) as one example, and is suitable for systems with thousands of nodes and sensors that require sharing status and/or control information. What is the name of this 4th scheme? (select the correct answer).
+Ans:
+9.Question 9
+Select all of the long range wireless communication protocols we studied
+Ans:Wimax
+    Satellite
+    5G cellular
+    LoRa
+    Ingenu
+10.Question 10
+Select all of the short range wireless communication protocols we studied:
+Ans:Wireless HART
+    ZigBee
+    6LowPAN
+    WiFi
+    Z-Wave
+    EnOcean
+    Bluetooth (BLE)
+    ANT+
+    NFC
+
+
+
+
+
 
