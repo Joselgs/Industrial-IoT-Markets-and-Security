@@ -25,7 +25,9 @@ Ans:What are the communication requirements, including the need to communicate w
     How will the device be powered?Battery or plugged in?
 5.Question 5
 What is the single most important criterion (metric) to consider when thinking about deploying an RTOS?
-Ans:
+Ans:Is deterministic latency required?
+
+
 
 
 
