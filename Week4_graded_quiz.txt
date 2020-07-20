@@ -17,7 +17,7 @@ True or false?
 Ans:True
 5.Question 5
 Which of the following drawings accurately represents a full IIoT system? Select the best answer.
-Ans:<==========Refer Week4_graded_quiz_images for answer==============>
+Ans:<==========Refer 'Week4_graded_quiz_image' for answer==============>
 6.Question 6
 Network Functions Virtualization (NFV) seeks to be able to dynamically place (or move) networking capability as usage demands change. True or false?
 Ans:True
