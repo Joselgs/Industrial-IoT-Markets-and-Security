@@ -6,7 +6,7 @@ Select which of the following describes what cut-through packet routing is
 Ans:A packet is sent on towards its destination prior to the end of the packet being received and checked for data integrity. Used in latency sensitive applications.
 3.Question 3
 In the context of this course, select the best answer that describes what M2M communication is
-Ans:
+Ans:Non-TCP/IP communication; a legacy or proprietary scheme
 4.Question 4
 TCP/IP communication consists of 4 layers from the OSI model consisting of:
 Application layer
@@ -26,7 +26,7 @@ Software Defined Networks (SDN) divides network functionality into a data plane 
 Ans:True
 8.Question 8
 We saw 4 types of messaging schemes that could be used in an IIoT system. 3 of these were: polling, interrupts and push status. A 4th scheme exists, with the MQTT protocol (and related to push status) as one example, and is suitable for systems with thousands of nodes and sensors that require sharing status and/or control information. What is the name of this 4th scheme? (select the correct answer).
-Ans:
+Ans:Publish and Subscribe
 9.Question 9
 Select all of the long range wireless communication protocols we studied
 Ans:Wimax
