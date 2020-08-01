@@ -1,5 +1,5 @@
 1.Question 1
-The Markets and Markets report showed a figure listing the top 8 application areas. In this course I chose 5 of those areas as “Industrial”. Select the 5 industrial application areas from the following list. (this is a repeat question from a previous quiz because I really want you to learn this)
+The Markets and Markets report showed a figure listing the top 8 application areas. In this course I chose 5 of those areas as “Industrial”. Select the 5 industrial application areas from the following list . (this is a repeat question from a previous quiz because I really want you to learn this)
 Ans:Agriculture
     Building Automation
     Oil & Gas
