@@ -18,7 +18,7 @@ True or false?
 Ans:True
 3.Question 3
 We saw typical platforms broken down into 7 service levels. Those service levels are:
-API ’s
+API’s
 Analytics
 Data visualization (graphs, charts)
 Database integration
