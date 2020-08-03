@@ -9,7 +9,6 @@ and saw that all of these application areas are expected to grow at > 30% CAGR (
 Ans:True
 2.Question 2
 We saw platform product offerings from several companies. A platform enables:
-
 Highly customizable software framework + APIs that allow external developers to create specialized applications.
 Allows central monitoring and control of each of and every activity that takes place within an organization.
 Enables system admins to monitor, control, visualize, simulate, schedule, analyze all organizational activities from a single location.
