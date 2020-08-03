@@ -1,5 +1,5 @@
 1.Question 1
-Markets and Markets broke down the IIoT software solutions market into :
+Markets and Markets broke down the IIoT software solutions market into:
 Real-time streaming analytics
 Network bandwidth management
 Remote monitoring
