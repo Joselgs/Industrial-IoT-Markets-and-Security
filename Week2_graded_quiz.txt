@@ -41,7 +41,6 @@ Ans:Network bandwidth management
     Remote monitoring
 5.Question 5
 Markets and Markets broke the software market segment into sub-segments:
-
 Data management
 Security
 Remote monitoring
