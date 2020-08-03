@@ -29,7 +29,6 @@ True or false?
 Ans:True
 4.Question 4
 Which of the following choices correctly ranks in order, based on market size (not CAGR), from largest to smallest, for these software solution types as described by the Markets and Markets report?
-
 Security
 Real-time streaming analytics
 Network bandwidth management
