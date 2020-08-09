@@ -1,4 +1,4 @@
-1.Question 1
+1. Question 1
 Select which of the following best describes the Security Mindset
 Ans:Always thinking about ways a system or a scheme can be broken, compromised, bypassed or be tricked into leaking information
 2.Question 2
