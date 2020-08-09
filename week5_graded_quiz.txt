@@ -1,0 +1,59 @@
+1.Question 1
+Select which of the following best describes the Security Mindset
+Ans:Always thinking about ways a system or a scheme can be broken, compromised, bypassed or be tricked into leaking information
+2.Question 2
+Select which of the following best describes thinking orthogonally (same as thinking unconventionally
+Ans:When problem solving, turning your perspective 90 degrees can help give you a new view (or approach) to solving a problem, and may help you uncover weaknesses in your security scheme
+3.Question 3
+Symmetric encryption techniques use the same key for encryption and decryption. True or false?
+Ans:True
+4.Question 4
+Asymmetric encryption techniques use 2 keys, 1 for encryption and 1 for decryption (or visa-versa). True or false?
+Ans:True
+5.Question 5
+Fill in the blank. AES-ECB mode has a weakness. When a person uses AES-ECB mode it can __________________ information
+Ans:leak
+6.Question 6
+Select an AES mode that addresses the weakness of AES-ECB mode
+Ans:XTS
+7.Question 7
+Which of the following algorithms can be used to securely exchange keys between 2 devices
+Ans:Diffie-Hellman
+8.Question 8
+A hash function can be used for checking the integrity of a piece of data, and a MAC can be used to check the integrity and authenticity of a piece of data. True or false?
+Ans:True
+9.Question 9
+Select the diagram that best depicts a scheme for securely updating FW on a remote device and addresses security, integrity and authentication
+Ans:Option A
+10.Question 10
+When designing and building a device which will exist in remote locations, where is the best place to store critical security parameters like shared secret keys and private keys?
+Ans:On-chip eFuse or an on-chip ROM (i.e. an immutable place/media)
+11.Question 11
+Select the best answer that describes what a nonce is
+Ans:
+12.Question 12
+Select the best answer that describes how to defeat a replay attack
+Ans:Append a nonce to a transmitted message (or command), and increment the nonce after transmission and successful reception of a message
+13.Question 13
+Select the answer that best describes what a “Man in the middle” attack is
+Ans:A person that inserts themself within an insecure communication channel and pretends to be the parties at both ends of a communication exchange
+14.Question 14
+We studied the notion that security must be built into a system from the very beginning and never “added on” at the end of a project. As a software/firmware code developer, select the best approach which will lead to a good security implementation
+Ans:Range check all inputs that come from or are derived from outside the system, and use standard security algorithms - don’t invent your own encryption algorithm, as an example. Address accessibility of all ports (USB, UART etc.) into and out-of the system - require authentication in order to use a port on a system. And lastly continuously apply the security mindset.
+15.Question 15
+A chain of trust starts with a numerical value (a public key for example), stored in an immutable location and therefore trusted. This trusted information can then be used to derive trust for subsequent pieces of information (executable code for example). True or false?
+Ans:True
+16.Question 16
+Don Matthews notable quote is “Security through obscurity is not security”. True or false?
+Ans:True
+17.Question 17
+In the future when you hear someone at your company say something about security similar to “We’re the only ones that could ever figure this out.” Or “Only we have the ability to do this.” These generally are true statements because these people have been working in the security field for a long time and know what they are talking about. Are these statements (mindsets) generally true or false?
+Ans:False
+18.Question 18
+Government organizations within the United States have published numerous security documents known as Federal Information Processing Standards (FIPS) and Special Publications (SP800-XXX). True or false?
+Ans:True
+
+
+
+
+
