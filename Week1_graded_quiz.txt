@@ -5,7 +5,7 @@ Ans:Create hybrid business models
     Transform their workforces
     Fuel innovation
 2)Which of the following are contributing factors that has enabled IIoT systems to be widely deployed?
-Ans:All the above(IPv6
+Ans: All the above(IPv6
                   Dramatic reduction in costs for: sensors, compute, network bandwidth and storage
                   Dramatic reduction in power dissipation for: sensors, compute, and wireless communication
                   Dramatic reduction is size for: sensors, compute, and wireless communication
